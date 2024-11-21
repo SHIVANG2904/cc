@@ -1,0 +1,3 @@
+E:\CMake\bin\cmake.exe -E rm -f CMakeFiles\CpuVis.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\CpuVis.dir/objects.a @CMakeFiles\CpuVis.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\CpuVis.dir/objects.a -Wl,--no-whole-archive -o CpuVis.exe -Wl,--out-implib,libCpuVis.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CpuVis.dir\linkLibs.rsp

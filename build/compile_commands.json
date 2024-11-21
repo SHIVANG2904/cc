@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/minor proj demo folder/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\CpuVis.dir\\src\\main.cpp.obj -c \"D:\\minor proj demo folder\\src\\main.cpp\"",
+  "file": "D:/minor proj demo folder/src/main.cpp",
+  "output": "CMakeFiles/CpuVis.dir/src/main.cpp.obj"
+}
+]

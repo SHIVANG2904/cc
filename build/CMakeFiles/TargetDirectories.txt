@@ -1,0 +1,3 @@
+D:/minor proj demo folder/build/CMakeFiles/CpuVis.dir
+D:/minor proj demo folder/build/CMakeFiles/edit_cache.dir
+D:/minor proj demo folder/build/CMakeFiles/rebuild_cache.dir
